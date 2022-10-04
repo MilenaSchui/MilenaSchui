@@ -5,3 +5,4 @@ Following some facts about me:</sub>
 1. I love the IT and hope to refresh my outdated knowledge through the Bootcamp
 2. You can find me on the mountains or in the water when I'm not at the computer
 
+<img src="https://unsplash.com/photos/9wg5jCEPBsw" widht="400" hight="300" alt="pic about a mountain" />
